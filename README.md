@@ -43,8 +43,8 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | **Personal Portfolio** | CV website (coming soon) | [My Website]() |
-| **C++ Exercises** | Practice & problem-solving | [Repo](https://github.com/MohamedRaghebOmer/Cpp-Exercises) |
-| **Git & GitHub Demos** | Branches, merges, workflows | [Repo](https://github.com/MohamedRaghebOmer/MohamedRaghebOmer/blob/main/demos.md) |
+| **C++ Exercises** | Practice & problem-solving | [Exercises](https://github.com/MohamedRaghebOmer/Cpp-Exercises) |
+| **Git & GitHub Demos** | Branches, merges, workflows | [Demos](https://github.com/MohamedRaghebOmer/MohamedRaghebOmer/blob/main/demos.md) |
 
 ---
 
