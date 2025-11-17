@@ -57,3 +57,24 @@ Here are some of my repositories and projects:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedRaghebOmer&show_icons=true&hide_border=true)
 
 </details>
+
+---
+
+## ⏱️ WakaTime / Coding Stats
+<details>
+  <summary>Click to view my coding activity</summary><br/>
+
+![Code Time](https://img.shields.io/badge/Code%20Time-2,000%20hrs-blue)
+![Commit Activity](https://img.shields.io/badge/Commits-500-green)
+
+```text
+💻 Languages:
+C++         █████████████░░░░  60%
+C#          ███████░░░░░░░░  25%
+Other       ███░░░░░░░░░░░░  15%
+
+🌞 Daily Coding Hours (Example):
+Morning      2 hrs  ████░░░░░░░░
+Afternoon    4 hrs  ██████████░░
+Evening      3 hrs  ████████░░░
+Night        1 hr   ██░░░░░░░░░
