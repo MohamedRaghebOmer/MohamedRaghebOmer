@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Notepad++-009A44?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/>
 </p>
 
 ---
