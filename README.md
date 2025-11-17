@@ -15,7 +15,7 @@
 ## 👋 About Me
 - Mohamed Ragheb — **Computer Science student**.  
 - Passionate about building projects that help me grow and learn.  
-- Currently focused on **C++**, **C#**, **.NET**, and **Git/GitHub**.  
+- Currently focused on **C++**, **C#** and **.NET**. 
 - Goal: Become a **Full Stack Web Developer**.  
 - Based in Damietta, Egypt 🇪🇬.
 
@@ -30,18 +30,21 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** C++, C# (learning), basic scripting  
-- **Tools:** Visual Studio 2022, Git, GitHub, Notepad++  
-- **Concepts:** OOP, Data Structures, Version Control, Backend fundamentals  
+- C#  
+- Backend Development with .NET  
+- Data Structures & Algorithms  
+- Git & GitHub Workflows  
+- Soft Skills (Communication, Time Management, Problem-Solving)
+
 
 ---
 
 ## 🔭 Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| **Personal Portfolio** | CV website (coming soon) | [Repo](https://github.com/MohamedRaghebOmer) |
-| **C++ Exercises** | Practice & problem-solving | [Repo](https://github.com/MohamedRaghebOmer) |
-| **Git & GitHub Demos** | Branches, merges, workflows | [Repo](https://github.com/MohamedRaghebOmer) |
+| **Personal Portfolio** | CV website (coming soon) | [My Website]() |
+| **C++ Exercises** | Practice & problem-solving | [Repo](https://github.com/MohamedRaghebOmer/Cpp-Exercises) |
+| **Git & GitHub Demos** | Branches, merges, workflows | [Repo](https://github.com/MohamedRaghebOmer/MohamedRaghebOmer/blob/main/demos.md) |
 
 ---
 
@@ -67,7 +70,7 @@
 ```text
 Languages:
 C++      ████████████░░░░  80%
-C#       ███████░░░░░░░   23%
+C#       ███████░░░░░░░   25%
 Other    ███░░░░░░░░░░░    15%
 
-Average daily coding: 4 - 8 hours
+Average daily coding: 6 - 12 hours
