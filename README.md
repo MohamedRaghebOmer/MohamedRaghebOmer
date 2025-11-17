@@ -67,8 +67,8 @@
 ## ⏱️ Coding Snapshot (Example)
 ```text
 Languages:
-C++      ████████████░░░░  60%
-C#       ███████░░░░░░░   25%
+C++      ████████████░░░░  80%
+C#       ███████░░░░░░░   23%
 Other    ███░░░░░░░░░░░    15%
 
-Average daily coding: 2 - 4 hours
+Average daily coding: 4 - 8 hours
