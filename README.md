@@ -90,15 +90,15 @@
 
 ---
 
-## ⏱️ Coding Snapshot (Example)
-```text
-Languages:
-C++      ████████████░░░░  80%
-C#       ███████░░░░░░░   25%
-Other    ███░░░░░░░░░░░    15%
+## ⏱️ Coding Snapshot
 
-Average daily coding: 6 - 12 hours
-```
+**Languages & Proficiency**
+- C++:   ![████████████░░░░](https://img.shields.io/badge/C++-80%25-brightgreen)
+- C#:    ![███████░░░░░░░](https://img.shields.io/badge/C%23-25%25-blue)
+- Other: ![███░░░░░░░░░░](https://img.shields.io/badge/Other-15%25-lightgrey)
+
+**Average Daily Coding:** 6 - 12 hours
+
 ---
 
 ### ✍️ Random Dev Quote
