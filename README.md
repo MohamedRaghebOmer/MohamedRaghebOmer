@@ -9,107 +9,81 @@
 ---
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedraghebomer) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaghebOmer37538) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedraghebomer@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@RaghebOmer37538)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
 
 ---
 
 ## 👋 About Me
-- Mohamed Ragheb — **Computer Science student**.  
-- Passionate about building projects that help me grow and learn.  
-- Currently focused on **C++**, **C#** and **.NET**. 
-- Goal: Become a **Full Stack Web Developer**.  
-- Based in Damietta, Egypt 🇪🇬.
+
+* Mohamed Ragheb — **Computer Science student**.
+* Passionate about building projects that help me grow and learn.
+* Focused on **C++**, with working experience and growing knowledge in **C# / .NET**.
+* Goal: Become a **Full Stack Web Developer**.
+* Based in Damietta, Egypt 🇪🇬.
 
 ---
 
-## 🛠️ Skills & Tools
-- C#  
-- Backend Development with .NET  
-- Data Structures & Algorithms  
-- Git & GitHub Workflows  
-- Soft Skills (Communication, Time Management, Problem-Solving)
----
+## 🛠️ Skills & Currently Learning
 
-## 🚀 Currently Learning
-- C#  
-- Backend Development with .NET  
-- Data Structures & Algorithms  
-- Git & GitHub Workflows  
+* C++
+* C#
+* Data Structures & Algorithms
+* Backend Development with .NET
+* Git & GitHub Workflows
+* Soft Skills (Communication, Time Management, Problem-Solving)
 
----
+**Currently learning & improving**
 
-## 🔭 Projects
-| Project | Description | Link |
-|--------|-------------|------|
-| **Full C++ Bank Project** | Bank Project with C++ | [Bank Project](https://github.com/MohamedRaghebOmer/Bank-Project-With-OOP-) |
-| **Full C++ ATM Project** | ATM Project with C++ | [ATM Project](https://github.com/MohamedRaghebOmer/ATM-Project/tree/main) |
-| **Git & GitHub Demos** | Branches, merges, workflows | [Demos](https://github.com/MohamedRaghebOmer/MohamedRaghebOmer/blob/main/demos.md) |
-| **C++ Exercises level 5** | Practice & problem-solving | [C++ level 5](https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-8-) |
-| **C++ Exercises level 6** | Practice & problem-solving | [C++ level 6](https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-10-) |
-
+* Advanced C++ problem solving and modern idioms (gradual)
+* Practical .NET backend patterns
+* Strengthening Git & repo maintenance workflows
 
 ---
 
-## 🔭 My Libraries
-| Library | Description | Link |
-|--------|-------------|------|
-| **Input & Validation Library** | C++ Input Library | [Input Library](https://github.com/MohamedRaghebOmer/Input-and-Validate-Library) |
-| **Date Library** | C++ Date Library | [Date Library](https://github.com/MohamedRaghebOmer/Date-Library) |
-| **Utility Library** | C++ Utilties | [Utility Library](https://github.com/MohamedRaghebOmer/Utility-Library) |
-| **String Library** | String Utilities | [String Library](https://github.com/MohamedRaghebOmer/String-Library) |
+## 🔭 Featured Collections
+
+A short index to my main repos: projects, reusable libraries, and exercise courses.
+
+| Collection        | Description                                                               | Link                                                                |
+| ----------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **All Projects**  | Central index of my complete C++ projects (Bank, ATM, demos, etc.).       | [All Projects](https://github.com/MohamedRaghebOmer/All-Projects)   |
+| **All Libraries** | Reusable C++ header-only libraries (Date, String, Input & Validate, ...). | [All Libraries](https://github.com/MohamedRaghebOmer/All-Libraries) |
+| **Cpp Exercises** | Six course submodules with solved problems — shows my C++ progress.       | [Cpp Exercises](https://github.com/MohamedRaghebOmer/Cpp-Exercises) |
 
 ---
 
-## 🔧 3D Contributions
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
-</p>
+## 📊 Coding Snapshot (adjusted)
 
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRaghebOmer&theme=dark&border_radius=6" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRaghebOmer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=1" />
-</p>
-
----
-
-## ⏱️ Coding Snapshot
+Percentages reflect the current focus and practice balance — tuned to present a realistic skill distribution.
 
 **Languages & Proficiency**
-- C++:   ![████████████░░░░](https://img.shields.io/badge/C++-80%25-brightgreen)
-- C#:    ![███████░░░░░░░](https://img.shields.io/badge/C%23-25%25-blue)
-- Other: ![███░░░░░░░░░░](https://img.shields.io/badge/Other-15%25-lightgrey)
+
+* C++:   ![C++](https://img.shields.io/badge/C++-75%25-brightgreen)
+* C#:    ![C#](https://img.shields.io/badge/C%23-20%25-blue)
+* Other: ![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
 
 **Average Daily Coding:** 6 - 12 hours
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 ---
 
 ## 📫 Contact
-- **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
 
-- **Email**: mohamedraghebomer@gmail.com
+* **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
+* **Email**: [mohamedraghebomer@gmail.com](mailto:mohamedraghebomer@gmail.com)
 
 ---
-
