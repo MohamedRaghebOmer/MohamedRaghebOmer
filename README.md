@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) 
 
 ---
 
@@ -25,16 +25,13 @@
 ## 🛠️ Skills & Currently Learning
 
 * C++
-* C#
 * Data Structures & Algorithms
-* Backend Development with .NET
 * Git & GitHub Workflows
 * Soft Skills (Communication, Time Management, Problem-Solving)
 
 **Currently learning & improving**
 
 * Advanced C++ problem solving and modern idioms (gradual)
-* Practical .NET backend patterns
 * Strengthening Git & repo maintenance workflows
 
 ---
@@ -51,15 +48,14 @@ A short index to my main repos: projects, reusable libraries, and exercise cours
 
 ---
 
-## 📊 Coding Snapshot (adjusted)
+## 📊 Coding Snapshot
 
 Percentages reflect the current focus and practice balance — tuned to present a realistic skill distribution.
 
 **Languages & Proficiency**
 
-* C++:   ![C++](https://img.shields.io/badge/C++-75%25-brightgreen)
-* C#:    ![C#](https://img.shields.io/badge/C%23-20%25-blue)
-* Other: ![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
+* C++:   ![C++](https://img.shields.io/badge/C++-90%25-brightgreen)
+* Other: ![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
 
 **Average Daily Coding:** 6 - 12 hours
 
