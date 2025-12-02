@@ -1,38 +1,51 @@
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-%230078D7.svg?style=for-the-badge&logo=.net&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Currently Studying](https://img.shields.io/badge/Currently_Studying-%23FFDD00.svg?style=for-the-badge&logo=book&logoColor=black)
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@RaghebOmer37538)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaghebOmer37538)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MohamedRaghebOmer)
 
 ---
 
 ## 👋 About Me
 
-* Mohamed Ragheb — **Computer Science student**.
-* Passionate about building projects that help me grow and learn.
-* Focused on **C++**, with working experience and growing knowledge in **C# / .NET**.
-* Goal: Become a **Full Stack Web Developer**.
-* Based in Damietta, Egypt 🇪🇬.
+* **Mohamed Ragheb** — Computer Science student | Damietta, Egypt 🇪🇬
+* Completed **C++ foundations**: OOP & Data Structures
+* Currently exploring **C#** & **.NET Framework**
+* Passionate about building projects that help me learn & grow
+* 🚀 Always improving and learning daily
+* Goal: Become a **Full Stack Web Developer**
 
 ---
 
 ## 🛠️ Skills & Currently Learning
 
-* C++
-* Data Structures & Algorithms
-* Git & GitHub Workflows
-* Soft Skills (Communication, Time Management, Problem-Solving)
+* **C++** – Completed foundations including **OOP** & **Data Structures`**  
+  ![C++](https://img.shields.io/badge/C++-90%25-brightgreen)  
+  Currently improving advanced problem solving and modern idioms (gradual)
 
-**Currently learning & improving**
+* **C# & .NET Framework** – Learning and building projects  
+  ![C#](https://img.shields.io/badge/C%23-40%25-yellow)
 
-* Advanced C++ problem solving and modern idioms (gradual)
-* Strengthening Git & repo maintenance workflows
+* **Git & GitHub Workflows** – Strengthening repository maintenance and workflow skills  
+  ![Git](https://img.shields.io/badge/Git-70%25-green)
+
+* **Soft Skills** – Communication, Time Management, Problem-Solving  
+  ![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
 
 ---
 
@@ -48,22 +61,9 @@ A short index to my main repos: projects, reusable libraries, and exercise cours
 
 ---
 
-## 📊 Coding Snapshot
-
-Percentages reflect the current focus and practice balance — tuned to present a realistic skill distribution.
-
-**Languages & Proficiency**
-
-* C++:   ![C++](https://img.shields.io/badge/C++-90%25-brightgreen)
-* Other: ![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
-
-**Average Daily Coding:** 6 - 12 hours
-
----
-
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -71,5 +71,7 @@ Percentages reflect the current focus and practice balance — tuned to present 
 
 * **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
 * **Email**: [mohamedraghebomer@gmail.com](mailto:mohamedraghebomer@gmail.com)
+* **LinkedIn**: [Mohamed Ragheb](https://linkedin.com/in/mohamedraghebomer)
+* **GitHub**: [MohamedRaghebOmer](https://github.com/MohamedRaghebOmer)
 
 ---
