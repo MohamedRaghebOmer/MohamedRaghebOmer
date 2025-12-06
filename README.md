@@ -17,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaghebOmer37538)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MohamedRaghebOmer)
 
 ---
 
@@ -72,6 +71,4 @@ A short index to my main repos: projects, reusable libraries, and exercise cours
 * **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
 * **Email**: [mohamedraghebomer@gmail.com](mailto:mohamedraghebomer@gmail.com)
 * **LinkedIn**: [Mohamed Ragheb](https://linkedin.com/in/mohamedraghebomer)
-* **GitHub**: [MohamedRaghebOmer](https://github.com/MohamedRaghebOmer)
-
 ---
