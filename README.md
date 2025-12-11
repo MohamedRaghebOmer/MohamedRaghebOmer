@@ -70,5 +70,5 @@ A short index to my main repos: projects, reusable libraries, and exercise cours
 
 * **Email**: [mohamedraghebomer@gmail.com](mailto:mohamedraghebomer@gmail.com)
 * **LinkedIn**: [Mohamed Ragheb](https://linkedin.com/in/mohamedraghebomer)
-* * **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
+* **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
 ---
