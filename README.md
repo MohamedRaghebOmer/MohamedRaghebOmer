@@ -37,7 +37,7 @@ Experienced in building logic-heavy applications with **C++** and currently mast
     - Advanced **Data Structures** for data organization.
     - File Handling for persistent data storage.
     - Clean code architecture for scalability.
-- **Details:** [Check the full documentation here](https://github.com/MohamedRaghebOmer/Bank-Project/Readme)
+- **Details:** [Check the full documentation here](https://github.com/MohamedRaghebOmer/Bank-Project)
 
 ---
 
