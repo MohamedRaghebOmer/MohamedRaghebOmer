@@ -30,14 +30,14 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ---
 
 ## 🏆 Featured Project
-### 🏦 [Bank-Project](https://github.com/MohamedRaghebOmer/All-Projects) 
+### 🏦 [Bank-Project](https://github.com/MohamedRaghebOmer/Bank-Project) 
 *The most complex project built during my C++ journey.*
 - **Core Concept:** A comprehensive Banking System management tool.
 - **Key Technical Skills:** - Full implementation of **Object-Oriented Programming (OOP)**.
     - Advanced **Data Structures** for data organization.
     - File Handling for persistent data storage.
     - Clean code architecture for scalability.
-- **Details:** [Check the full documentation here](https://github.com/MohamedRaghebOmer/All-Projects)
+- **Details:** [Check the full documentation here](https://github.com/MohamedRaghebOmer/Bank-Project/Readme)
 
 ---
 
