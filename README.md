@@ -1,75 +1,65 @@
-# 💻 Tech Stack
+# 👋 Hi, I'm Mohamed Ragheb
+### Computer Science Student | Aspiring .NET Backend Engineer
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-%230078D7.svg?style=for-the-badge&logo=.net&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Experienced in building logic-heavy applications with **C++** and currently mastering **C#**, **.NET**, and **SQL Server** to build scalable backend systems.
+
+---
+
+## 🚀 About Me
+- 🎓 **Education:** 1st Year Computer Science Student at Damietta University.
+- 🎯 **Focus:** Transitioning from core software foundations to professional **Web Backend Development**.
+- 🛠️ **Strong Foundations:** Solid understanding of **OOP** principles and **Data Structures** (implemented in C++).
+- 💡 **Goal:** Building high-performance, secure, and maintainable server-side applications.
+
+---
+
+## 💻 Tech Stack
+
+### 🛠 Languages & Frameworks
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Tools & Environments
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Currently Studying](https://img.shields.io/badge/Currently_Studying-%23FFDD00.svg?style=for-the-badge&logo=book&logoColor=black)
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaghebOmer37538)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
-
----
-
-## 👋 About Me
-
-* **Mohamed Ragheb** — Computer Science student | Damietta, Egypt 🇪🇬
-* Completed **C++ foundations**: OOP & Data Structures
-* Currently exploring **C#** & **.NET Framework**
-* Passionate about building projects that help me learn & grow
-* 🚀 Always improving and learning daily
-* Goal: Become a **Full Stack Web Developer**
+## 🏆 Featured Project
+### 🏦 [Bank-Project](https://github.com/MohamedRaghebOmer/All-Projects) 
+*The most complex project built during my C++ journey.*
+- **Core Concept:** A comprehensive Banking System management tool.
+- **Key Technical Skills:** - Full implementation of **Object-Oriented Programming (OOP)**.
+    - Advanced **Data Structures** for data organization.
+    - File Handling for persistent data storage.
+    - Clean code architecture for scalability.
+- **Details:** [Check the full documentation here](https://github.com/MohamedRaghebOmer/All-Projects)
 
 ---
 
-## 🛠️ Skills & Currently Learning
-
-* **C++** – Completed foundations including **OOP** & **Data Structures`**  
-  ![C++](https://img.shields.io/badge/C++-90%25-brightgreen)  
-  Currently improving advanced problem solving and modern idioms (gradual)
-
-* **C# & .NET Framework** – Learning and building projects  
-  ![C#](https://img.shields.io/badge/C%23-40%25-yellow)
-
-* **Git & GitHub Workflows** – Strengthening repository maintenance and workflow skills  
-  ![Git](https://img.shields.io/badge/Git-70%25-green)
-
-* **Soft Skills** – Communication, Time Management, Problem-Solving  
-  ![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
+## 🔭 Learning Roadmap
+- [x] **C++ Foundations** (OOP, Data Structures, Algorithms).
+- [ ] **C# & .NET Core** (In Progress 🏗️).
+- [ ] **SQL Server** & Database Design (In Progress 🏗️).
+- [ ] ASP.NET Core Web API (Next Step 🎯).
 
 ---
 
-## 🔭 Featured Collections
-
-A short index to my main repos: projects, reusable libraries, and exercise courses.
-
-| Collection        | Description                                                               | Link                                                                |
-| ----------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **All Projects**  | Central index of my complete C++ projects (Bank, ATM, demos, etc.).       | [All Projects](https://github.com/MohamedRaghebOmer/All-Projects)   |
-| **All Libraries** | Reusable C++ header-only libraries (Date, String, Input & Validate, ...). | [All Libraries](https://github.com/MohamedRaghebOmer/All-Libraries) |
-| **Cpp Exercises** | Six course submodules with solved problems — shows my C++ progress.       | [Cpp Exercises](https://github.com/MohamedRaghebOmer/Cpp-Exercises) |
+## 📊 My GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRaghebOmer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRaghebOmer&layout=compact&theme=radical)
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedraghebomer)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedraghebomer@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/@RaghebOmer37538)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mohamed_Ragheb0)
 
 ---
-
-## 📫 Contact
-
-* **Email**: [mohamedraghebomer@gmail.com](mailto:mohamedraghebomer@gmail.com)
-* **LinkedIn**: [Mohamed Ragheb](https://linkedin.com/in/mohamedraghebomer)
-* **X**: [@RaghebOmer37538](https://x.com/@RaghebOmer37538)
-* **Telegram**: [@Mohamed_Ragheb0](https://t.me/Mohamed_Ragheb0)
----
+*“Coding is not just about writing lines of code; it's about solving problems and continuous learning.”*
