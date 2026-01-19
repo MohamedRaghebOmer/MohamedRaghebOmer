@@ -6,7 +6,7 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** 1st Year Computer Science Student at Damietta University.
+- 🎓 **Education:** 1st Year Computer Science Student at East Port Said National University University.
 - 🎯 **Focus:** Transitioning from core software foundations to professional **Web Backend Development**.
 - 🛠️ **Strong Foundations:** Solid understanding of **OOP** principles and **Data Structures** (implemented in C++).
 - 💡 **Goal:** Building high-performance, secure, and maintainable server-side applications.
