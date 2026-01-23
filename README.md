@@ -16,7 +16,7 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ## 🧠 Problem Solving & Competitive Programming
 - 🔗 [LeetCode Profile](https://leetcode.com/u/mohamed_ragheb/)
 - 🧩 Practicing Algorithms & Data Structures regularly
-
+- 💻 Check out my solutions: [LeetCode Solutions Repo](https://github.com/MohamedRaghebOmer/LeetCode-Solutions-CSharp)
 ---
 
 ## 💻 Tech Stack
