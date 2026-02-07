@@ -13,12 +13,6 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 
 ---
 
-## 🧠 Problem Solving & Competitive Programming
-- 🔗 [LeetCode Profile](https://leetcode.com/u/mohamed_ragheb/)
-- 🧩 Practicing Algorithms & Data Structures regularly
-- 💻 Check out my solutions: [LeetCode Solutions Repo](https://github.com/MohamedRaghebOmer/LeetCode-Solutions-CSharp)
----
-
 ## 💻 Tech Stack
 
 ### 🛠 Languages & Frameworks
@@ -56,8 +50,8 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ---
 
 ## 📊 My GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRaghebOmer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRaghebOmer&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedRaghebOmer&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedRaghebOmer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
