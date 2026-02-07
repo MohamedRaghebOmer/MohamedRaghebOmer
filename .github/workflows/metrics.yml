@@ -17,13 +17,15 @@ jobs:
           base: header, community, repositories, metadata
           config_timezone: Africa/Cairo
           
+          # إعدادات الشكل والترتيب
           config_order: base.header, languages
           base_indepth: yes
           
+          # قسم اللغات (بدون أخطاء)
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
           
+          # الثيم المتوافق مع GitHub Dark
           config_theme: github-dark
