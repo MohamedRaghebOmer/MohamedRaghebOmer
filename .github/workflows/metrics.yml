@@ -1,11 +1,13 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # بيحدث نفسه كل يوم الساعة 12 بالليل
-  workflow_dispatch: # بيسمح لك تشغله يدوي في أي وقت
-push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ده السطر السحري اللي بيدي صلاحية رفع الصورة
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,7 +16,6 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Africa/Cairo
-          # الإضافات الجمالية
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
