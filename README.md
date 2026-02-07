@@ -50,8 +50,8 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedRaghebOmer&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedRaghebOmer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRaghebOmer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRaghebOmer&layout=compact&theme=radical)
 
 ---
 
