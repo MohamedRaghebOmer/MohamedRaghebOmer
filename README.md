@@ -50,7 +50,7 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 ---
 
 ## 📊 My GitHub Stats
-![Metrics](/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 ---
 
