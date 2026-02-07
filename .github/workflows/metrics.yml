@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ده السطر السحري اللي بيدي صلاحية رفع الصورة
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -16,9 +16,14 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Africa/Cairo
+          
+          config_order: base.header, languages
+          base_indepth: yes
+          
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_languages_details: percentage, lines
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          
+          config_theme: github-dark
