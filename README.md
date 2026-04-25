@@ -43,8 +43,8 @@ Experienced in building logic-heavy applications with **C++** and currently mast
 
 ## 🔭 Learning Roadmap
 - [x] **C++ Foundations** (OOP, Data Structures, Algorithms).
-- [ ] **C# & .NET Core** (In Progress 🏗️).
-- [ ] **SQL Server** & Database Design (In Progress 🏗️).
+- [x] **C# & .NET Core** (In Progress 🏗️).
+- [x] **SQL Server** & Database Design (In Progress 🏗️).
 - [ ] ASP.NET Core Web API (Next Step 🎯).
 
 ---
