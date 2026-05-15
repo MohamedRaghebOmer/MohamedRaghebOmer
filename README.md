@@ -57,16 +57,46 @@ I’m currently expanding my skills in **web development** so I can grow into a 
 
 ## 📌 Featured Projects
 
-### 🔹 DVLD - Driving Vehicle License Department
-A desktop application for managing vehicle licensing and driver-related operations.
+### 🔹 DVLD - Driving & Vehicle License Department
+DVLD is a comprehensive desktop application developed to manage the full lifecycle of driving licenses,
+including multi-stage testing, financial transactions, and regulatory compliance. It ensures road safety by
+strictly enforcing legal requirements through a sophisticated business logic layer.
+
+- Designed normalized database schema with relationships and constraints.
+- Built stored procedures to handle complex business logic directly at the database level.
+- Developed a multi-layered validation engine to automate license eligibility checks and eliminate duplicate applications.
+- Enforced age and license-class eligibility rules while preventing duplicate or conflicting applications.
+
+## 🚀 Key Features
+
+- Multi-stage driving license workflow (Vision → Written → Practical tests)
+- Smart appointment scheduling and test management
+- Automated license eligibility and validation rules
+- Prevention of duplicate or conflicting applications
+- Driving license issuance, renewal, replacement, and international license support
+- Integrated driver and applicant management system
 
 **Tech Stack:** C#, ADO.NET, .NET Framework 4.8, WinForms  
 **Repository:** [DVLD](https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department)
 
 ### 🔹 SMS - Supermarket Management System
-A system for managing supermarket operations, including customers, ledgers, product stock, and role-based user permissions.
+SMS is a layered backend system for managing supermarket operations, including authentication, authorization, auditing, sales, returns, customer accounts, inventory, and financial ledger tracking. 
+The system was designed with scalability, maintainability, and security in mind using clean layered architecture principles.
+ - Implemented a role-based and entity-level permission system using bitwise operations for fine-grained authorization.
+- Applied JWT-based authentication with secure password hashing and session management.
+- Designed a clean, scalable layered architecture separating Domain, Application, and Infrastructure concerns.
+- Developed full sales and return workflows including inventory updates and financial calculations.
+- Designed a fully normalized relational database supporting complex business workflows (sales, returns, customers, ledger).
 
-**Tech Stack:** ASP.NET Core 10, T-SQL  
+### 🚀 Key Features
+- JWT Authentication & Refresh Tokens
+- Role & Permission Management
+- Audit Logging
+- Sales & Returns Management
+- Inventory Tracking
+- Customer Ledger System
+
+**Tech Stack:** C#, ADO.NET, ASP.NET Core 10, T-SQL  
 **Repository:** [SMS](https://github.com/MohamedRaghebOmer/SMS-Supermarket-Management-System)
 
 ---
@@ -85,10 +115,11 @@ A system for managing supermarket operations, including customers, ledgers, prod
 
 ## 🧠 My Background
 
-- Strong foundation in **C++**
-- Practical experience with **Desktop Development**
-- Focused on **clean code** and **well-structured backend systems**
-- Always learning, improving, and pushing forward
+- **Backend Development**: C#, ASP.NET Core Web API, RESTful APIs, Entity Framework Core, Clean Architecture, Authentication & Authorization (JWT), Dependency Injection, Middleware, LINQ, Logging, Auditing
+- **Database**: SQL Server, T-SQL, Database Design
+- **Desktop Development**: WinForms / WPF Desktop Development
+- **Tools & Technologies**: Git & GitHub, Postman, Swagger/OpenAPI, Visual Studio 2022/2026, SSMS 2022
+- **Soft Skills**: Problem Solving & Debugging, Strong Analytical Thinking, Team Collaboration, Effective Communication, Attention to Detail, Continuous Learning, Time Management
 
 ---
 
