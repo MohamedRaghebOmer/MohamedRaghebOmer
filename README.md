@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Mohamed Ragheb Omer**, a passionate **ASP.NET Core Backend Developer** from Egypt.
+I’m **Mohamed Ragheb Omer**, a passionate **ASP.NET Core Backend Developer** from Egypt. 
 I enjoy building **strong, clean, and scalable backend systems** and turning ideas into well-structured APIs.
 
 What makes me stand out is my long-term passion for programming, my continuous drive to learn, and my belief that every day is a step toward becoming a better version of myself.
