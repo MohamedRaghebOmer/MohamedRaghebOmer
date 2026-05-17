@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Hi, I'm Mohamed Ragheb Omer 👋
 
@@ -6,17 +6,19 @@
 
 ### ASP.NET Core Backend Developer | Egypt 🇪🇬
 
+🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Mohamed Ragheb Omer**, a passionate **ASP.NET Core Backend Developer** from Egypt. 
-I enjoy building **strong, clean, and scalable backend systems** and turning ideas into well-structured APIs.
+I’m **Mohamed Ragheb Omer**, a passionate **ASP.NET Core Backend Developer** from Egypt.  
+I enjoy building **clean, scalable, and well-structured backend systems** and turning ideas into reliable APIs.
 
-What makes me stand out is my long-term passion for programming, my continuous drive to learn, and my belief that every day is a step toward becoming a better version of myself.
-I also built a strong foundation in **C++** before moving into **C#**, which helped me understand programming deeply from the start.
+What defines me most is my long-term passion for programming, my constant drive to learn, and my belief that every day is a step toward becoming better.  
+I also built a strong foundation in **C++** before moving into **C#**, which helped me develop a deep understanding of programming from the start.
 
 I’m currently expanding my skills in **web development** so I can grow into a **Full-Stack Developer** in the future.
 
@@ -58,17 +60,14 @@ I’m currently expanding my skills in **web development** so I can grow into a 
 ## 📌 Featured Projects
 
 ### 🔹 DVLD - Driving & Vehicle License Department
-DVLD is a comprehensive desktop application developed to manage the full lifecycle of driving licenses,
-including multi-stage testing, financial transactions, and regulatory compliance. It ensures road safety by
-strictly enforcing legal requirements through a sophisticated business logic layer.
+DVLD is a comprehensive desktop application developed to manage the full lifecycle of driving licenses, including multi-stage testing, financial transactions, and regulatory compliance. It ensures road safety by strictly enforcing legal requirements through a structured business logic layer.
 
-- Designed normalized database schema with relationships and constraints.
-- Built stored procedures to handle complex business logic directly at the database level.
-- Developed a multi-layered validation engine to automate license eligibility checks and eliminate duplicate applications.
-- Enforced age and license-class eligibility rules while preventing duplicate or conflicting applications.
+- Designed a normalized database schema with relationships and constraints.
+- Built stored procedures to handle complex business logic at the database level.
+- Developed a multi-layered validation engine to automate license eligibility checks and prevent duplicate applications.
+- Enforced age and license-class eligibility rules while preventing conflicting requests.
 
-## 🚀 Key Features
-
+#### 🚀 Key Features
 - Multi-stage driving license workflow (Vision → Written → Practical tests)
 - Smart appointment scheduling and test management
 - Automated license eligibility and validation rules
@@ -80,15 +79,16 @@ strictly enforcing legal requirements through a sophisticated business logic lay
 **Repository:** [DVLD](https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department)
 
 ### 🔹 SMS - Supermarket Management System
-SMS is a layered backend system for managing supermarket operations, including authentication, authorization, auditing, sales, returns, customer accounts, inventory, and financial ledger tracking. 
+SMS is a layered backend system for managing supermarket operations, including authentication, authorization, auditing, sales, returns, customer accounts, inventory, and financial ledger tracking.  
 The system was designed with scalability, maintainability, and security in mind using clean layered architecture principles.
- - Implemented a role-based and entity-level permission system using bitwise operations for fine-grained authorization.
+
+- Implemented a role-based and entity-level permission system using bitwise operations for fine-grained authorization.
 - Applied JWT-based authentication with secure password hashing and session management.
 - Designed a clean, scalable layered architecture separating Domain, Application, and Infrastructure concerns.
 - Developed full sales and return workflows including inventory updates and financial calculations.
-- Designed a fully normalized relational database supporting complex business workflows (sales, returns, customers, ledger).
+- Designed a fully normalized relational database supporting complex business workflows.
 
-### 🚀 Key Features
+#### 🚀 Key Features
 - JWT Authentication & Refresh Tokens
 - Role & Permission Management
 - Audit Logging
@@ -98,6 +98,15 @@ The system was designed with scalability, maintainability, and security in mind 
 
 **Tech Stack:** C#, ADO.NET, ASP.NET Core 10, T-SQL  
 **Repository:** [SMS](https://github.com/MohamedRaghebOmer/SMS-Supermarket-Management-System)
+
+---
+
+## 🌐 Portfolio
+
+My personal portfolio website:
+**[mohamedragheb.dev](https://mohamedragheb.dev)**
+
+I use it to share my profile, projects, and contact details in one place.
 
 ---
 
@@ -134,6 +143,9 @@ I completed a structured roadmap and earned certificates for each course on my L
 ## 📫 Contact Me
 
 <p align="left">
+  <a href="https://mohamedragheb.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mohamedraghebomer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -159,8 +171,6 @@ I completed a structured roadmap and earned certificates for each course on my L
 
 ### Fun fact:
 I enjoy playing chess ♟️
-
----
 
 <div align="center">
 
