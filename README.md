@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohamed Ragheb Omer 👋
+# Hi, I'm Mohamed Ragheb Omer 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Backend+Developer;Building+Strong+%26+Clean+Backend+Systems;Passionate+about+Learning+%26+Growth;Turning+Ideas+into+Scalable+APIs)](https://git.io/typing-svg)
 
