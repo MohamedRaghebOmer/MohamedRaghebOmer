@@ -6,7 +6,8 @@
 
 ### ASP.NET Core Backend Developer | Egypt 🇪🇬
 
-🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)
+<!--🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)-->
+[Download My CV](profile-summary-card-output/Resume.pdf)
 
 </div>
 
@@ -57,28 +58,35 @@ I’m currently expanding my skills in **web development** so I can grow into a 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### 🔹 DVLD - Driving & Vehicle License Department
-DVLD is a comprehensive desktop application developed to manage the full lifecycle of driving licenses, including multi-stage testing, financial transactions, and regulatory compliance. It ensures road safety by strictly enforcing legal requirements through a structured business logic layer.
+### 🦷 Dental Management System
 
-- Designed a normalized database schema with relationships and constraints.
-- Built stored procedures to handle complex business logic at the database level.
-- Developed a multi-layered validation engine to automate license eligibility checks and prevent duplicate applications.
-- Enforced age and license-class eligibility rules while preventing conflicting requests.
+Dental Management System is a comprehensive desktop application developed for a real dental clinic to streamline daily operations, including patient management, appointments, visits, treatments, prescriptions, payments, and radiographs.
+The system was built with a strong focus on scalable backend architecture, maintainability, and clean software design using Domain-Driven Design (DDD) and Clean Architecture principles.
+
+- Applied **Clean Architecture**, **Domain-Driven Design (DDD)**, and the **Repository Pattern** to build a scalable and maintainable backend.
+- Designed and implemented complete clinical workflows for patients, appointments, visits, treatments, prescriptions, payments, and radiograph management.
+- Built a relational **SQLite** database with **10+ interconnected tables** using **Entity Framework Core** and managed database migrations.
+- Developed the application for a real client and collaborated throughout the development lifecycle to deliver production-ready features and post-deployment improvements.
+- Integrated **Serilog** for structured application logging to simplify debugging and issue diagnosis.
 
 #### 🚀 Key Features
-- Multi-stage driving license workflow (Vision → Written → Practical tests)
-- Smart appointment scheduling and test management
-- Automated license eligibility and validation rules
-- Prevention of duplicate or conflicting applications
-- Driving license issuance, renewal, replacement, and international license support
-- Integrated driver and applicant management system
 
-**Tech Stack:** C#, ADO.NET, .NET Framework 4.8, WinForms  
-**Repository:** [DVLD](https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department)
+- Patient Management
+- Appointment Scheduling
+- Visit & Treatment Management
+- Prescription Management
+- Payment Tracking
+- Radiograph Management
+- Entity Framework Core Migrations
+- Structured Logging with Serilog
 
-### 🔹 SMS - Supermarket Management System
+**Tech Stack:** C#, ASP.NET Core, WinForms, Entity Framework Core, SQLite, Clean Architecture, Domain-Driven Design (DDD), Repository Pattern, Serilog
+
+**Project Demo:** [Dental Management System](https://www.youtube.com/watch?v=ObpU8mq26vk)
+
+### 🛒 SMS - Supermarket Management System
 SMS is a layered backend system for managing supermarket operations, including authentication, authorization, auditing, sales, returns, customer accounts, inventory, and financial ledger tracking.  
 The system was designed with scalability, maintainability, and security in mind using clean layered architecture principles.
 
@@ -99,8 +107,29 @@ The system was designed with scalability, maintainability, and security in mind 
 **Tech Stack:** C#, ADO.NET, ASP.NET Core 10, T-SQL  
 **Repository:** [SMS](https://github.com/MohamedRaghebOmer/SMS-Supermarket-Management-System)
 
----
+### 🪪 DVLD - Driving & Vehicle License Department
+DVLD is a comprehensive desktop application developed to manage the full lifecycle of driving licenses, including multi-stage testing, financial transactions, and regulatory compliance. It ensures road safety by strictly enforcing legal requirements through a structured business logic layer.
 
+- Designed a normalized database schema with relationships and constraints.
+- Built stored procedures to handle complex business logic at the database level.
+- Developed a multi-layered validation engine to automate license eligibility checks and prevent duplicate applications.
+- Enforced age and license-class eligibility rules while preventing conflicting requests.
+
+#### 🚀 Key Features
+- Multi-stage driving license workflow (Vision → Written → Practical tests)
+- Smart appointment scheduling and test management
+- Automated license eligibility and validation rules
+- Prevention of duplicate or conflicting applications
+- Driving license issuance, renewal, replacement, and international license support
+- Integrated driver and applicant management system
+
+**Tech Stack:** C#, ADO.NET, .NET Framework 4.8, WinForms  
+**Repository:** [DVLD](https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department)
+
+
+
+---
+<!--
 ## 🌐 Portfolio
 
 My personal portfolio website:
@@ -109,6 +138,7 @@ My personal portfolio website:
 I use it to share my profile, projects, and contact details in one place.
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
@@ -143,9 +173,9 @@ I completed a structured roadmap and earned certificates for each course on my L
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://mohamedragheb.dev">
+  <!--<a href="https://mohamedragheb.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a>-->
   <a href="https://www.linkedin.com/in/mohamedraghebomer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
