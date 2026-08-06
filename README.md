@@ -7,7 +7,7 @@
 ### ASP.NET Core Backend Developer | Egypt 🇪🇬
 
 <!--🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)-->
-[Download My CV](profile-summary-card-output/Resume.pdf)
+[Download My CV](Resume.pdf)
 
 </div>
 
