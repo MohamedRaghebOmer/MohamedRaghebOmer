@@ -2,12 +2,13 @@
 
 # Hi, I'm Mohamed Ragheb Omer 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Backend+Developer;Building+Strong+%26+Clean+Backend+Systems;Passionate+about+Learning+%26+Growth;Turning+Ideas+into+Scalable+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Full-Stack+.NET+Developer;Building+Strong+%26+Clean+Full+Stack+Solutions;Passionate+about+Learning+%26+Growth;Turning+Ideas+into+Scalable+APIs)](https://git.io/typing-svg)
 
-### ASP.NET Core Backend Developer | Egypt 🇪🇬
+### Full-Stack .NET Developer | Egypt 🇪🇬
 
-<!--🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)-->
-[Download My CV](Resume.pdf)
+🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)
+
+📄 CV: [Show My CV](Resume.pdf)
 
 </div>
 
@@ -15,22 +16,32 @@
 
 ## 👨‍💻 About Me
 
-I’m **Mohamed Ragheb Omer**, a passionate **ASP.NET Core Backend Developer** from Egypt.  
-I enjoy building **clean, scalable, and well-structured backend systems** and turning ideas into reliable APIs.
+I’m **Mohamed Ragheb Omer**, a passionate **Full-Stack .NET Developer** from Egypt.  
+I enjoy building **clean, scalable, and well-structured full-stack applications** and turning ideas into reliable solutions.
 
 What defines me most is my long-term passion for programming, my constant drive to learn, and my belief that every day is a step toward becoming better.  
 I also built a strong foundation in **C++** before moving into **C#**, which helped me develop a deep understanding of programming from the start.
-
-I’m currently expanding my skills in **web development** so I can grow into a **Full-Stack Developer** in the future.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Serilog-000000?style=for-the-badge&logo=serilog&logoColor=white" alt="Serilog">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/ADO.NET-0C7BDC?style=for-the-badge&logo=.net&logoColor=white" />
@@ -52,9 +63,10 @@ I’m currently expanding my skills in **web development** so I can grow into a 
 
 ## 🚀 Currently Focusing On
 
-- **Web Development**
-- Growing toward **Full-Stack Development**
-- Building stronger knowledge in **Backend Architecture** and **Scalable APIs**
+- **Mobile Development**
+- Growing toward **Full-Stack Software Developer | Web, Desktop & Mobile**
+- Building stronger knowledge in **Backend Architecture** and **Technologies**
+- Improving my Frontend experience to build **Responsive** and **Clean** UI/UX
 
 ---
 
@@ -129,7 +141,7 @@ DVLD is a comprehensive desktop application developed to manage the full lifecyc
 
 
 ---
-<!--
+
 ## 🌐 Portfolio
 
 My personal portfolio website:
@@ -138,7 +150,6 @@ My personal portfolio website:
 I use it to share my profile, projects, and contact details in one place.
 
 ---
--->
 
 ## 📊 GitHub Stats
 
