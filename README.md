@@ -6,9 +6,9 @@
 
 ### Full Stack Developer (.NET & React) | Egypt 🇪🇬
 
-🌐 Portfolio: [mohamedragheb.dev](https://mohamedragheb.dev)
+🌐 Portfolio: <a href="https://mohamedragheb.dev" target="_blank" rel="noopener noreferrer">mohamedragheb.dev</a>
 
-[📄 Download My CV](Mohamed_Ragheb_Omer_CV.pdf)
+<a href="Mohamed_Ragheb_Omer_CV.pdf" target="_blank" rel="noopener noreferrer">📄 Download My CV</a>
 
 </div>
 
@@ -86,7 +86,7 @@ A comprehensive management system built for a real dental clinic to streamline d
 
 **Tech Stack:** C#, ASP.NET Core, WinForms, Entity Framework Core, SQLite, Clean Architecture, DDD, Repository Pattern, Serilog
 
-**Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=ObpU8mq26vk) · **Source:** [GitHub Repo](https://github.com/MohamedRaghebOmer/Dental-Management-System)
+**Demo:** <a href="https://www.youtube.com/watch?v=ObpU8mq26vk" target="_blank" rel="noopener noreferrer">Watch on YouTube</a> · **Source:** <a href="https://github.com/MohamedRaghebOmer/Dental-Management-System" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
 
 ### 🛒 SMS — Supermarket Management System
 
@@ -102,7 +102,7 @@ A layered backend system for supermarket operations, covering authentication, au
 
 **Tech Stack:** C#, ADO.NET, ASP.NET Core 10, T-SQL
 
-**Source:** [GitHub Repo](https://github.com/MohamedRaghebOmer/SMS-Supermarket-Management-System)
+**Source:** <a href="https://github.com/MohamedRaghebOmer/SMS-Supermarket-Management-System" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
 
 ### 🪪 DVLD — Driving & Vehicle License Department
 
@@ -117,7 +117,7 @@ A desktop application managing the full lifecycle of driving licenses, including
 
 **Tech Stack:** C#, ADO.NET, .NET Framework 4.8, WinForms
 
-**Source:** [GitHub Repo](https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department) · **Demo:** [Watch on YouTube](https://youtu.be/3lIlErl78XY?si=yvqzm_DiIOdT-x9W)
+**Source:** <a href="https://github.com/MohamedRaghebOmer/DVLD-Driving-Vehicle-License-Department" target="_blank" rel="noopener noreferrer">GitHub Repo</a> · **Demo:** <a href="https://youtu.be/3lIlErl78XY?si=yvqzm_DiIOdT-x9W" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
 ---
 
@@ -146,29 +146,29 @@ A desktop application managing the full lifecycle of driving licenses, including
 
 ## 🏆 Certifications & Learning
 
-I completed a structured roadmap and earned certificates for each course, listed on my LinkedIn profile: [mohamedraghebomer](https://www.linkedin.com/in/mohamedraghebomer)
+I completed a structured roadmap and earned certificates for each course, listed on my LinkedIn profile: <a href="https://www.linkedin.com/in/mohamedraghebomer" target="_blank" rel="noopener noreferrer">mohamedraghebomer</a>
 
 ---
 
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://mohamedragheb.dev">
+  <a href="https://mohamedragheb.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamedraghebomer">
+  <a href="https://www.linkedin.com/in/mohamedraghebomer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.github.com/MohamedRaghebOmer">
+  <a href="https://www.github.com/MohamedRaghebOmer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:mohamedraghebomer@gmail.com">
+  <a href="mailto:mohamedraghebomer@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/mohamed_ragheb">
+  <a href="https://leetcode.com/u/mohamed_ragheb" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.youtube.com/@MohamedRaghebOmer">
+  <a href="https://www.youtube.com/@MohamedRaghebOmer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
